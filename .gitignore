@@ -1,0 +1,21 @@
+# Binaries
+*.exe
+*.out
+/bin/
+
+# Environment files
+.env
+
+# Go workspace
+go.work
+go.work.sum
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
