@@ -1,4 +1,4 @@
-# Quest 02 — Loops
+# ✅ Quest 02 — Loops
 
 ## What are Loops?
 
