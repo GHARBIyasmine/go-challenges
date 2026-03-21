@@ -1,4 +1,4 @@
-# Quest 05 — Slices
+# ✅ Quest 05 — Slices
 
 ## What are Slices?
 
