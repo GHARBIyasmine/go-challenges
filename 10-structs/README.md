@@ -1,4 +1,4 @@
-# Quest 10 — Structs
+# ✅ Quest 10 — Structs
 
 ## What are Structs?
 
@@ -9,7 +9,10 @@ type Person struct {
     Name string
     Age  int
 }
+// func (receiver) func_name (paramenters) type {}
 func (p Person) Greet() string { return "Hi, " + p.Name }
+
+// a "method" is a func that is tied to the struct by a "receiver" which is the struct type itself or its pointer
 ```
 
 ## The Challenge
