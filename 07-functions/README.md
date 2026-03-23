@@ -1,4 +1,4 @@
-# Quest 07 — Functions
+# ✅ Quest 07 — Functions
 
 ## What are Functions?
 
