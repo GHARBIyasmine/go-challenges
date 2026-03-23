@@ -1,4 +1,4 @@
-# Quest 06 — Maps
+# ✅ Quest 06 — Maps
 
 ## What are Maps?
 
