@@ -1,4 +1,4 @@
-# Quest 12 — Enums (iota)
+# ✅ Quest 12 — Enums (iota)
 
 ## What are Enums in Go?
 
@@ -13,7 +13,15 @@ const (
     West                    // 3
 )
 ```
-
+Skip a value with _
+```go 
+const (
+    _      = iota  // skip 0
+    Low            // 1
+    Medium         // 2
+    High           // 3
+)
+```
 ## The Challenge
 
 1. Create a `Weekday` type with constants `Monday` through `Sunday` using `iota` (start Monday at 1)
