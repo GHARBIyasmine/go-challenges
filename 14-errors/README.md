@@ -1,4 +1,4 @@
-# Quest 14 — Errors
+# ✅ Quest 14 — Errors
 
 ## What are Errors?
 
