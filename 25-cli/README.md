@@ -1,4 +1,4 @@
-# Quest 25 — CLI
+# ✅ Quest 25 — CLI
 
 ## What is CLI in Go?
 
